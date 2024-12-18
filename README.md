@@ -1,4 +1,10 @@
-[I](https://github.com/lazyanalyzer) am a master at [East China Normal University](https://en.wikipedia.org/wiki/East_China_Normal_University) (2022-2025), mentored by Prof. [TingSu](https://dblp.org/pid/42/6896-1.html). My research interests revolve around [static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis). I'm conducting static program analysis work (2024.09.30 -) on [HarmonyOS NEXT](https://en.wikipedia.org/wiki/HarmonyOS_NEXT) [APP](https://developer.huawei.com/consumer/cn/doc/guidebook/harmonyecoapp-guidebook-0000001761818040) within [Ark Compiler](https://en.wikipedia.org/wiki/Ark_Compiler) at [Huawei](https://businessabc.net/wiki/huawei) 's 2012 Lab (可信理论、技术与工程实验室).
+I am a master at [East China Normal University](https://en.wikipedia.org/wiki/East_China_Normal_University) (2022-2025), mentored by Prof. [TingSu](https://dblp.org/pid/42/6896-1.html). My research interests revolve around [static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis). I'm conducting static program analysis work (2024.09.30 -) on [HarmonyOS NEXT](https://en.wikipedia.org/wiki/HarmonyOS_NEXT) [APP](https://developer.huawei.com/consumer/cn/doc/guidebook/harmonyecoapp-guidebook-0000001761818040) within [Ark Compiler](https://en.wikipedia.org/wiki/Ark_Compiler) at [Huawei](https://businessabc.net/wiki/huawei) 's 2012 Lab (可信理论、技术与工程实验室). At the same time, I am engaged in research on [delta debugging](https://en.wikipedia.org/wiki/Delta_debugging).
+
+Github ID: [lazyanalyzer](https://github.com/lazyanalyzer), Gitee ID: [lazyanalyzer](https://gitee.com/lazyanalyzer) :-D
+
+<!-- ![Github Logo](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg) -->
+
+<!-- ![Gitee Logo](https://upload.wikimedia.org/wikipedia/commons/archive/a/a4/20220726144638%21Logo_gitee_g_red.svg) -->
 
 *B.Eng.* [烟台大学](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6)
 
@@ -19,7 +25,6 @@ In Proceedings of [FSE 2024](https://2024.esec-fse.org/track/fse-2024-research-p
 *PS:* I am refactoring the tool for this paper.
 
 ------
-
 **TA**
 
 🛠️ Software Analysis, Testing and Verification - Fall 2023
