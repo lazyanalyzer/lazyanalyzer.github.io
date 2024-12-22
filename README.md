@@ -22,7 +22,7 @@ In Proceedings of [FSE 2024](https://2024.esec-fse.org/track/fse-2024-research-p
 
 *Highlights:* This work has found 38 unique defects in [Clang Static Analyzer](https://clang-analyzer.llvm.org), [GCC Static Analyzer](https://gcc.gnu.org/wiki/StaticAnalyzer), and [Pinpoint](https://www.sourcebrella.com).
 
-*PS:* I am refactoring the tool for this paper.
+*PS:* I am refactoring the [tool](https://github.com/lazyanalyzer/fuzz-sa) for this paper.
 
 ------
 **TA**
