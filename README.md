@@ -2,13 +2,15 @@
 
 subreviewer for [MOBILESoft 2025](https://conf.researchr.org/home/mobilesoft-2025)
 
+1st Prize, CSCC National College Students Computer Systems Capability Competition (OS System Tools Development) – East China Regional Contest, Team Leader
+
+*B.Eng.* [烟台大学](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6)
+
 github id: [lazyanalyzer](https://github.com/lazyanalyzer), gitee id: [lazyanalyzer](https://gitee.com/lazyanalyzer)
 
 <!-- ![Github Logo](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg) -->
 
 <!-- ![Gitee Logo](https://upload.wikimedia.org/wikipedia/commons/archive/a/a4/20220726144638%21Logo_gitee_g_red.svg) -->
-
-*B.Eng.* [烟台大学](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6)
 
 If you have any issues to discuss, feel free to contact me via email: [work.ml-ming@pm.me](mailto:work.ml-ming@pm.me) :-D
 
