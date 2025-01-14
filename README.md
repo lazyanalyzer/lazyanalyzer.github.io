@@ -2,7 +2,7 @@
 
 subreviewer for [MOBILESoft 2025](https://conf.researchr.org/home/mobilesoft-2025)
 
-1st Prize, CSCC National College Students Computer Systems Capability Competition (OS System Tools Development) – East China Regional Contest, Team Leader
+1st Prize, CSCC National College Students Computer Systems Capability Competition (East China Regional) – OS Tools Development, Team Leader
 
 *B.Eng.* [烟台大学](https://zh.wikipedia.org/wiki/%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6)
 
