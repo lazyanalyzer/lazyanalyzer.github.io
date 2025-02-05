@@ -12,7 +12,7 @@ github: [lazyanalyzer](https://github.com/lazyanalyzer), gitee: [lazyanalyzer](h
 
 <!-- ![Gitee Logo](https://upload.wikimedia.org/wikipedia/commons/archive/a/a4/20220726144638%21Logo_gitee_g_red.svg) -->
 
-If you have any issues to discuss, feel free to contact me via email: [work.ml-ming@pm.me](mailto:work.ml-ming@pm.me) :-D
+If you have any issues to discuss, feel free to contact me via email: [work.ml-ming@outlook.com](mailto:work.ml-ming@outlook.com) :-D
 
 ------
 
